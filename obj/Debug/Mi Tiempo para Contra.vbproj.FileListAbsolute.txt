@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\Mi Tiempo para Contra\bin\Debug\Mi Tiempo para Contra.exe.config
+C:\Users\oswal\source\repos\Mi Tiempo para Contra\bin\Debug\Mi Tiempo para Contra.exe
+C:\Users\oswal\source\repos\Mi Tiempo para Contra\bin\Debug\Mi Tiempo para Contra.pdb
+C:\Users\oswal\source\repos\Mi Tiempo para Contra\bin\Debug\Mi Tiempo para Contra.xml
+C:\Users\oswal\source\repos\Mi Tiempo para Contra\obj\Debug\Mi Tiempo para Contra.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\Mi Tiempo para Contra\obj\Debug\Mi_Tiempo_para_Contra.Form1.resources
+C:\Users\oswal\source\repos\Mi Tiempo para Contra\obj\Debug\Mi_Tiempo_para_Contra.Resources.resources
+C:\Users\oswal\source\repos\Mi Tiempo para Contra\obj\Debug\Mi Tiempo para Contra.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\Mi Tiempo para Contra\obj\Debug\Mi Tiempo para Contra.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\Mi Tiempo para Contra\obj\Debug\Mi Tiempo para Contra.exe
+C:\Users\oswal\source\repos\Mi Tiempo para Contra\obj\Debug\Mi Tiempo para Contra.xml
+C:\Users\oswal\source\repos\Mi Tiempo para Contra\obj\Debug\Mi Tiempo para Contra.pdb
